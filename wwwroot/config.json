@@ -36,8 +36,8 @@
         
         /*
         developerAttribution: {
-            text: "Your organisation",
-            link: "http://www.example.com"
+            text: "csdila",
+            link: "http://www.csdila.unimelb.edu.au/"
         },*/
         // This is used in various text messages. You should also set <title> in index.html
         appName: "Terria Map",
@@ -45,11 +45,11 @@
         // See comments in lib/Views/global.scss for further information about customising colors, logos, fonts etc.
         brandBarElements: [
             "",
-            "<a target=\"_blank\" href=\"http://www.nicta.com.au\"><img src=\"images/terria_logo.png\" height=\"52\" title=\"Version: {{version}}\" /></a>",
+            "<a target=\"_blank\" href=\"http://www.csdila.unimelb.edu.au\"><img src=\"images/csdila_logo.png\" height=\"52\" title=\"Version: {{version}}\" /></a>",
             ""
         ],
         // Shown when things go wrong.
-        supportEmail: "help@example.com",
+        supportEmail: "faghakarim@unimelb.edu.au",
         // You probably shouldn't change this.
         proj4ServiceBaseUrl: "proj4def/",
         // Or this

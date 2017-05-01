@@ -7,7 +7,8 @@
   },
   "catalog": [
     {
-      "name": "Example Datasets",
+      //"name": "Example Datasets",
+	  "name": "داده های مکانی",
       "type": "group",
       "preserveOrder": true,
       "isOpen": true,
