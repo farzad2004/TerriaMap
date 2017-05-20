@@ -20,3 +20,8 @@ privateserverconfig.json
 wwwroot/privateconfig.json
 deploy/packages/
 deploy/work/
+/.vs
+/.vs
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/.vs/Geoportal/v15/.suo
