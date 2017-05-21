@@ -1,0 +1,105 @@
+{
+  "homeCamera": {
+         "west": 40,
+        "south": 24,
+        "east": 65,
+        "north": 40
+  },
+  "catalog": [
+    {
+      //"name": "Example Datasets",
+	  "name": "نتیجه جستجو",
+	  "id" : "searchResult1",
+      "type": "group",
+      "preserveOrder": true,
+      "isOpen": true,
+      "items": [
+		{
+          "layers": "road",
+          "url": "http://115.146.92.186:8080/geoserver/geoportal/wms",
+          "type": "wms",
+          "rectangle": [
+            51.40,
+            35.62,
+            51.47,
+            35.66
+          ],
+          "dataCustodian": "[Geoscience Australia](http://www.ga.gov.au/)\n\n[nfrip@ga.gov.au](mailto:nfrip@ga.gov.au)",
+          "name": "تهران",
+          "dataUrlType": "direct",
+          "dataUrl": "http://www.ga.gov.au/scientific-topics/hazards/flood/wofs",
+          "info": [
+            {
+              "name": "Licence",
+              "content": "[Creative Commons Attribution 4.0 International (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/)"
+            }
+          ]
+        },
+		{
+          "layers": "parcels",
+          "url": "http://115.146.92.186:8080/geoserver/geoportal/wms",
+          "type": "wms",
+          "rectangle": [
+            51.40,
+            35.62,
+            51.47,
+            35.66
+          ],
+          "dataCustodian": "[Geoscience Australia](http://www.ga.gov.au/)\n\n[nfrip@ga.gov.au](mailto:nfrip@ga.gov.au)",
+          "name": "شیراز ",
+          "dataUrlType": "direct",
+          "dataUrl": "http://www.ga.gov.au/scientific-topics/hazards/flood/wofs",
+          "info": [
+            {
+              "name": "Licence",
+              "content": "[Creative Commons Attribution 4.0 International (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/)"
+            }
+          ]
+        },
+		{
+          "layers": "objects",
+          "url": "http://115.146.92.186:8080/geoserver/geoportal/wms",
+          "type": "wms",
+          "rectangle": [
+            51.40,
+            35.62,
+            51.47,
+            35.66
+          ],
+          "dataCustodian": "[Geoscience Australia](http://www.ga.gov.au/)\n\n[nfrip@ga.gov.au](mailto:nfrip@ga.gov.au)",
+          "name": "مشهد",
+          "dataUrlType": "direct",
+          "dataUrl": "http://www.ga.gov.au/scientific-topics/hazards/flood/wofs",
+          "info": [
+            {
+              "name": "Licence",
+              "content": "[Creative Commons Attribution 4.0 International (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/)"
+            }
+          ]
+        },
+		{
+          "layers": "property",
+          "url": "http://115.146.92.186:8080/geoserver/geoportal/wms",
+          "type": "wms",
+          "rectangle": [
+            51.40,
+            35.62,
+            51.47,
+            35.66
+          ],
+          "dataCustodian": "[Geoscience Australia](http://www.ga.gov.au/)\n\n[nfrip@ga.gov.au](mailto:nfrip@ga.gov.au)",
+          "name": "اصفهان",
+          "dataUrlType": "direct",
+          "dataUrl": "http://www.ga.gov.au/scientific-topics/hazards/flood/wofs",
+          "info": [
+            {
+              "name": "Licence",
+              "content": "[Creative Commons Attribution 4.0 International (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/)"
+            }
+          ]
+        },
+   
+      ]
+    }
+  ]
+}

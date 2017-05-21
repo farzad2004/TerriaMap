@@ -2,7 +2,11 @@
     /* Names of init files (in wwwroot/init), without the .json extension, to load by default */
     initializationUrls: [
         "terria",
-		"searchResult"
+		"searchResult1",
+		"searchResult2",
+		"searchResult3",
+		"searchResult4",
+		"floodResult"
     ],
     parameters: {
         bingMapsKey: "AkaOmRFtjAb71cXgLwAGtLbj2RpkPKtVqAIroFQsocfurCBILxIeAWPkil7hhRy_",
