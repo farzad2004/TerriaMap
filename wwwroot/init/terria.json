@@ -24,7 +24,7 @@
             35.66
           ],
           "dataCustodian": "[Geoscience Australia](http://www.ga.gov.au/)\n\n[nfrip@ga.gov.au](mailto:nfrip@ga.gov.au)",
-          "name": "شبکه معابر تهران",
+          "name": "شبکه معابر شهري",
           "dataUrlType": "direct",
           "dataUrl": "http://www.ga.gov.au/scientific-topics/hazards/flood/wofs",
           "info": [
@@ -45,7 +45,7 @@
             35.66
           ],
           "dataCustodian": "[Geoscience Australia](http://www.ga.gov.au/)\n\n[nfrip@ga.gov.au](mailto:nfrip@ga.gov.au)",
-          "name": "پارسلهای جدید تهران ",
+          "name": "پارسلهاي سطح شهر",
           "dataUrlType": "direct",
           "dataUrl": "http://www.ga.gov.au/scientific-topics/hazards/flood/wofs",
           "info": [
@@ -56,7 +56,7 @@
           ]
         },
 		{
-          "layers": "objects",
+          "layers": "buildings",
           "url": "http://115.146.92.186:8080/geoserver/geoportal/wms",
           "type": "wms",
           "rectangle": [
@@ -66,7 +66,7 @@
             35.66
           ],
           "dataCustodian": "[Geoscience Australia](http://www.ga.gov.au/)\n\n[nfrip@ga.gov.au](mailto:nfrip@ga.gov.au)",
-          "name": "عورض نقطه ای",
+          "name": "املاک",
           "dataUrlType": "direct",
           "dataUrl": "http://www.ga.gov.au/scientific-topics/hazards/flood/wofs",
           "info": [
@@ -77,7 +77,7 @@
           ]
         },
 		{
-          "layers": "property",
+          "layers": "equipment",
           "url": "http://115.146.92.186:8080/geoserver/geoportal/wms",
           "type": "wms",
           "rectangle": [
@@ -87,7 +87,91 @@
             35.66
           ],
           "dataCustodian": "[Geoscience Australia](http://www.ga.gov.au/)\n\n[nfrip@ga.gov.au](mailto:nfrip@ga.gov.au)",
-          "name": "عوارض سطحی",
+          "name": "تاسیسات شهری",
+          "dataUrlType": "direct",
+          "dataUrl": "http://www.ga.gov.au/scientific-topics/hazards/flood/wofs",
+          "info": [
+            {
+              "name": "Licence",
+              "content": "[Creative Commons Attribution 4.0 International (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/)"
+            }
+          ]
+        },
+		{
+          "layers": "greenarea",
+          "url": "http://115.146.92.186:8080/geoserver/geoportal/wms",
+          "type": "wms",
+          "rectangle": [
+            51.40,
+            35.62,
+            51.47,
+            35.66
+          ],
+          "dataCustodian": "[Geoscience Australia](http://www.ga.gov.au/)\n\n[nfrip@ga.gov.au](mailto:nfrip@ga.gov.au)",
+          "name": "فضاهاي سبز شهري",
+          "dataUrlType": "direct",
+          "dataUrl": "http://www.ga.gov.au/scientific-topics/hazards/flood/wofs",
+          "info": [
+            {
+              "name": "Licence",
+              "content": "[Creative Commons Attribution 4.0 International (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/)"
+            }
+          ]
+        },
+		{
+          "layers": "trees",
+          "url": "http://115.146.92.186:8080/geoserver/geoportal/wms",
+          "type": "wms",
+          "rectangle": [
+            51.40,
+            35.62,
+            51.47,
+            35.66
+          ],
+          "dataCustodian": "[Geoscience Australia](http://www.ga.gov.au/)\n\n[nfrip@ga.gov.au](mailto:nfrip@ga.gov.au)",
+          "name": "درخت",
+          "dataUrlType": "direct",
+          "dataUrl": "http://www.ga.gov.au/scientific-topics/hazards/flood/wofs",
+          "info": [
+            {
+              "name": "Licence",
+              "content": "[Creative Commons Attribution 4.0 International (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/)"
+            }
+          ]
+        },
+		{
+          "layers": "fountain",
+          "url": "http://115.146.92.186:8080/geoserver/geoportal/wms",
+          "type": "wms",
+          "rectangle": [
+            51.40,
+            35.62,
+            51.47,
+            35.66
+          ],
+          "dataCustodian": "[Geoscience Australia](http://www.ga.gov.au/)\n\n[nfrip@ga.gov.au](mailto:nfrip@ga.gov.au)",
+          "name": "آبنماهای شهری",
+          "dataUrlType": "direct",
+          "dataUrl": "http://www.ga.gov.au/scientific-topics/hazards/flood/wofs",
+          "info": [
+            {
+              "name": "Licence",
+              "content": "[Creative Commons Attribution 4.0 International (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/)"
+            }
+          ]
+        },
+				{
+          "layers": "street_lights",
+          "url": "http://115.146.92.186:8080/geoserver/geoportal/wms",
+          "type": "wms",
+          "rectangle": [
+            51.40,
+            35.62,
+            51.47,
+            35.66
+          ],
+          "dataCustodian": "[Geoscience Australia](http://www.ga.gov.au/)\n\n[nfrip@ga.gov.au](mailto:nfrip@ga.gov.au)",
+          "name": "چراغ های معابر",
           "dataUrlType": "direct",
           "dataUrl": "http://www.ga.gov.au/scientific-topics/hazards/flood/wofs",
           "info": [
