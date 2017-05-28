@@ -12,6 +12,7 @@
     "url": "http://github.com/TerriaJS/TerriaMap"
   },
   "dependencies": {
+    "iransans-fontface": "^0.1.1",
     "react-dropdown": "^1.2.3",
     "react-select": "^1.0.0-rc.3",
     "terriajs-server": "^2.6.2"

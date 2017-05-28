@@ -12,18 +12,20 @@ function RelatedMaps(props) {
 
     return (
         <MenuPanel theme={dropdownTheme}
-                   btnText="Related Maps"
+                   btnText="Related Tool"
                    smallScreen={props.smallScreen}
                    viewState={props.viewState}
-                   btnTitle="See related maps">
+                   btnTitle="See related tool">
             <div className={classNames(PanelStyles.header)}>
-                <label className={PanelStyles.heading}>Related Maps</label>
+                <label className={PanelStyles.heading}>Related Tool</label>
             </div>
-
-            <p>
+            <div >
+                <iframe src="http://data.gov.ir/" className={Styles.iframe}></iframe>
+                </div>
+            {/* <p>
                 Clicking on a map below will open it in a separate window or tab.
             </p>
-
+            
             <div className={classNames(PanelStyles.section, Styles.section)}>
                 <a target="_blank" href="http://nationalmap.gov.au/renewables/">
                     <img className={Styles.image} src={require('../../wwwroot/images/aremi.jpg')}
@@ -87,7 +89,7 @@ function RelatedMaps(props) {
                     AURIN Map provides access to datasets on urban infrastructure for urban researchers, policy and
                     decision makers.
                 </p>
-            </div>
+            </div>*/}
         </MenuPanel>
     );
 }
