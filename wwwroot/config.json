@@ -29,9 +29,9 @@
         // Pop-up disclaimer that will be shown at the start
         // The text of the disclaimer is in lib/Views/GlobalDisclaimer.html
         globalDisclaimer: {
-            confirmationRequired: true,
-            buttonTitle: "I agree",
-            title: "Disclaimer",
+            confirmationRequired: false,
+            buttonTitle: "ورود",
+            title: "",
             // If the current browser location is not prod, or is dev, then show a "not the real site" warning.
             // The text of that is in lib/Views/DevelopmentDisclaimerPreamble.html
             //prodHostRegex: "gov.\\.au$",
