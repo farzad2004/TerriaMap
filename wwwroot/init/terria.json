@@ -181,6 +181,28 @@
             }
           ]
         },
+				{
+          "layers": "aerial93",
+          "url": "http://115.146.92.186:8080/geoserver/geoportal/wms",
+          "type": "wms",
+          "rectangle": [
+            51.40,
+            35.62,
+            51.47,
+            35.66
+          ],
+          "dataCustodian": "[سازمان فضایی ایران - سنجش از دور ایران](www.isa.ir/)\n\n[info@isa.ir ](mailto:info@isa.ir)",
+          "name": "تصویر ماهواره ای",
+          "dataUrlType": "direct",
+          "dataUrl": "http://www.ga.gov.au/scientific-topics/hazards/flood/wofs",
+          "info": [
+            {
+              "name": "Licence",
+              "content": "[Creative Commons Attribution 4.0 International (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/)"
+            }
+          ]
+        },        
+
         // {
           // "name": "ABC News Stories",
           // "type": "group",
