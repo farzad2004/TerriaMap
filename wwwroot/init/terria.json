@@ -221,7 +221,27 @@
             },
           ]
         },
-        
+        {
+          "name": "KML/KMZ files",
+          "type": "group",
+          "items": [
+            {
+              "name": "Simple Test (KML)",
+              "type": "kml",
+              "url": "test/simple.kml"
+            },
+            {
+              "name": "Vic Police (KML)",
+              "type": "kml",
+              "url": "test/vic_police.kml"
+            },
+            {
+              "name": "Vic Police (KMZ)",
+              "type": "kml",
+              "url": "test/Buildings_LayerToKML.kmz"
+            }
+          ]
+        },
        
 
         // {
