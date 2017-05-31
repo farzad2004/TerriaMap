@@ -202,6 +202,27 @@
             }
           ]
         },        
+        {
+              "name": "داده سه بعدی",
+          "type": "group",
+          "items": [
+            {
+              "name": "ساختمان سه بعدی ",
+              "description": "نمایش سه بعدی ساختمان.",
+              "attribution": "نمایش سه بعدی ساختمان",
+              "type": "czml",
+              "url": "test/3d/geelong/smooth.czml",
+              "rectangle": [
+                51.441628,
+                35.638600, 
+                51.441864,
+                35.639145  
+              ]
+            },
+          ]
+        },
+        
+       
 
         // {
           // "name": "ABC News Stories",
