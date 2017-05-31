@@ -16,7 +16,7 @@ function RelatedMaps(props) {
                    viewState={props.viewState}
                    btnTitle="See related tool">
             <div className={classNames(PanelStyles.header)}>
-                <label className={PanelStyles.heading}>Related Tool</label>
+                <label className={PanelStyles.heading}>ابزار مشابه</label>
             </div>
             <div >
                 <iframe src="http://data.gov.ir/" className={Styles.iframe}></iframe>
