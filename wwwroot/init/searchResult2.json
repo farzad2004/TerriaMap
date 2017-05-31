@@ -24,7 +24,7 @@
             51.44209944838575,
             35.6403598254297
           ],
-          "dataCustodian": "سازمان ثبت اسناد و املاک کشور",
+          "dataCustodian": "[سازمان ثبت اسناد و املاک کشور](www.ssaa.ir/)\n\n[info@ssaa.ir](mailto:info@ssaa.ir)",
           "name": "تهران",
           "dataUrlType": "direct",
           "dataUrl": "http://www.ssaa.ir/",
@@ -45,7 +45,7 @@
             51.6791058054953,
             32.64683716581601
           ],
-          "dataCustodian": "سازمان ثبت اسناد و املاک کشور",
+          "dataCustodian": "[سازمان ثبت اسناد و املاک کشور](www.ssaa.ir/)\n\n[info@ssaa.ir](mailto:info@ssaa.ir)", 
           "name": "اصفهان",
           "dataUrlType": "direct",
           "dataUrl": "http://www.ssaa.ir/",
@@ -66,8 +66,7 @@
             59.55259912003946,
             36.31031879307963
           ],
-          "dataCustodian": "سازمان ثبت اسناد و املاک کشور",
-          "name": "مشهد",
+          "dataCustodian": "[سازمان ثبت اسناد و املاک کشور](www.ssaa.ir/)\n\n[info@ssaa.ir](mailto:info@ssaa.ir)",           "name": "مشهد",
           "dataUrlType": "direct",
           "dataUrl": "http://www.ssaa.ir/",
           "info": [
@@ -87,8 +86,7 @@
             52.52301704330276,
             29.62792284958318
           ],
-          "dataCustodian": "سازمان ثبت اسناد و املاک کشور",
-          "name": "شیراز",
+          "dataCustodian": "[سازمان ثبت اسناد و املاک کشور](www.ssaa.ir/)\n\n[info@ssaa.ir](mailto:info@ssaa.ir)",           "name": "شیراز",
           "dataUrlType": "direct",
           "dataUrl": "http://www.ssaa.ir/",
           "info": [
