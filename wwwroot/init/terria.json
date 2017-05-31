@@ -23,10 +23,10 @@
             51.47,
             35.66
           ],
-          "dataCustodian": "[اداره کل راه و شهرسازی استان تهران](http://www.trudo.ir//)\n\n[Info@tdrt.ir](mailto:Info@tdrt.ir)",
+          "dataCustodian": "[اداره کل راه و شهرسازی استان تهران](http://www.trudo.ir/)\n\n[Info@tdrt.ir](mailto:Info@tdrt.ir)",
           "name": "شبکه معابر شهري",
           "dataUrlType": "direct",
-          "dataUrl": "http://www.ga.gov.au/scientific-topics/hazards/flood/wofs",
+          "dataUrl": "http://www.trudo.ir/wms",
           "info": [
             {
               "name": "Licence",
@@ -47,7 +47,7 @@
           "dataCustodian": "[شهرداری تهران](http://www.tehran.ir/)\n\n[info@herasat.tehran.ir](mailto:info@herasat.tehran.ir)",
           "name": "پارسلهاي سطح شهر",
           "dataUrlType": "direct",
-          "dataUrl": "http://www.ga.gov.au/scientific-topics/hazards/flood/wofs",
+          "dataUrl": "http://www.tehran.ir/wms",
           "info": [
             {
               "name": "Licence",
@@ -68,7 +68,7 @@
           "dataCustodian": "[شهرداری تهران](http://www.tehran.ir/)\n\n[info@herasat.tehran.ir](mailto:info@herasat.tehran.ir)",
           "name": "املاک",
           "dataUrlType": "direct",
-          "dataUrl": "http://www.ga.gov.au/scientific-topics/hazards/flood/wofs",
+          "dataUrl": "ttp://www.tehran.ir/wms",
           "info": [
             {
               "name": "Licence",
@@ -89,7 +89,7 @@
           "dataCustodian": "[شهرداری تهران](http://www.tehran.ir/)\n\n[info@herasat.tehran.ir](mailto:info@herasat.tehran.ir)",
           "name": "تاسیسات شهری",
           "dataUrlType": "direct",
-          "dataUrl": "http://www.ga.gov.au/scientific-topics/hazards/flood/wofs",
+          "dataUrl": "http://www.tehran.ir/wms",
           "info": [
             {
               "name": "Licence",
@@ -110,7 +110,7 @@
           "dataCustodian": "[سازمان بوستان ها و فضای سبز شهرداری تهران](http://parks.tehran.ir/)\n\n[info.parks@tehran.ir ](mailto:info.parks@tehran.ir)",
           "name": "فضاهاي سبز شهري",
           "dataUrlType": "direct",
-          "dataUrl": "http://www.ga.gov.au/scientific-topics/hazards/flood/wofs",
+          "dataUrl": "http://parks.tehran.ir/wms",
           "info": [
             {
               "name": "Licence",
@@ -131,7 +131,7 @@
           "dataCustodian": "[سازمان بوستان ها و فضای سبز شهرداری تهران](http://parks.tehran.ir/)\n\n[info.parks@tehran.ir ](mailto:info.parks@tehran.ir)",
           "name": "درخت",
           "dataUrlType": "direct",
-          "dataUrl": "http://www.ga.gov.au/scientific-topics/hazards/flood/wofs",
+          "dataUrl": "http://parks.tehran.ir/wms",
           "info": [
             {
               "name": "Licence",
@@ -152,7 +152,7 @@
           "dataCustodian": "[سازمان بوستان ها و فضای سبز شهرداری تهران](http://parks.tehran.ir/)\n\n[info.parks@tehran.ir ](mailto:info.parks@tehran.ir)",
           "name": "آبنماهای شهری",
           "dataUrlType": "direct",
-          "dataUrl": "http://www.ga.gov.au/scientific-topics/hazards/flood/wofs",
+          "dataUrl": "http://parks.tehran.ir/wms",
           "info": [
             {
               "name": "Licence",
@@ -173,7 +173,7 @@
           "dataCustodian": "[شهرداری تهران](http://www.tehran.ir/)\n\n[info@herasat.tehran.ir](mailto:info@herasat.tehran.ir)",
           "name": "چراغ های معابر",
           "dataUrlType": "direct",
-          "dataUrl": "http://www.ga.gov.au/scientific-topics/hazards/flood/wofs",
+          "dataUrl": "http://www.tehran.ir/wms",
           "info": [
             {
               "name": "Licence",
@@ -191,10 +191,10 @@
             51.47,
             35.66
           ],
-          "dataCustodian": "[سازمان فضایی ایران - سنجش از دور ایران](www.isa.ir/)\n\n[info@isa.ir ](mailto:info@isa.ir)",
-          "name": "تصویر ماهواره ای",
+          "dataCustodian": "[سازمان نقشه برداری کشور](https://www.ncc.org.ir/)\n\n[info@ncc.ir ](mailto:info@ncc.ir)",
+          "name": "تصویر هوایی",
           "dataUrlType": "direct",
-          "dataUrl": "http://www.ga.gov.au/scientific-topics/hazards/flood/wofs",
+          "dataUrl": "https://www.ncc.org.ir/wms",
           "info": [
             {
               "name": "Licence",
@@ -221,27 +221,27 @@
             },
           ]
         },
-        {
-          "name": "KML/KMZ files",
-          "type": "group",
-          "items": [
-            {
-              "name": "Simple Test (KML)",
-              "type": "kml",
-              "url": "test/simple.kml"
-            },
-            {
-              "name": "Vic Police (KML)",
-              "type": "kml",
-              "url": "test/vic_police.kml"
-            },
-            {
-              "name": "Vic Police (KMZ)",
-              "type": "kml",
-              "url": "test/Buildings_LayerToKML.kmz"
-            }
-          ]
-        },
+        // {
+        //   "name": "KML/KMZ files",
+        //   "type": "group",
+        //   "items": [
+        //     {
+        //       "name": "Simple Test (KML)",
+        //       "type": "kml",
+        //       "url": "test/simple.kml"
+        //     },
+        //     {
+        //       "name": "Vic Police (KML)",
+        //       "type": "kml",
+        //       "url": "test/vic_police.kml"
+        //     },
+        //     {
+        //       "name": "Vic Police (KMZ)",
+        //       "type": "kml",
+        //       "url": "test/selected_buildings3_LayerToK.kmz"
+        //     }
+        //   ]
+        // },
        
 
         // {
