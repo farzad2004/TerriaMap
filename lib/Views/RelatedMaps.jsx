@@ -1,4 +1,4 @@
-import React from 'react';
+﻿import React from 'react';
 
 import MenuPanel from 'terriajs/lib/ReactViews/StandardUserInterface/customizable/MenuPanel.jsx';
 import PanelStyles from 'terriajs/lib/ReactViews/Map/Panels/panel.scss';
@@ -9,10 +9,9 @@ function RelatedMaps(props) {
     const dropdownTheme = {
         inner: Styles.dropdownInner
     };
-
     return (
         <MenuPanel theme={dropdownTheme}
-                   btnText="Related Tool"
+                   btnText="ابزار مشابه"
                    smallScreen={props.smallScreen}
                    viewState={props.viewState}
                    btnTitle="See related tool">
