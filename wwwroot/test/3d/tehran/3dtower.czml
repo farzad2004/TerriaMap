@@ -1,0 +1,28 @@
+[
+  {
+    "id":"document",
+    "version":"1.0"
+  },
+  {
+    "id":"GeelongBuildingsApproxSmoothHeight",
+    "position":{
+      "cartographicDegrees":[
+         51.41098112, 35.69374544, 1174
+      ]
+    },
+    "model":{
+      "gltf":{
+        "uri":"/test/3d/tehran/3dtower.gltf"
+      },
+      "scale":{
+        "number":[
+          0.3
+        ]
+      },
+      "show":{
+        "boolean":true
+      }
+    }
+  }
+]
+

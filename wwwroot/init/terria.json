@@ -207,18 +207,49 @@
           "type": "group",
           "items": [
             {
-              "name": "ساختمان سه بعدی ",
-              "description": "نمایش سه بعدی ساختمان.",
-              "attribution": "نمایش سه بعدی ساختمان",
+              "name": "نمونه داده سه بعدی ",
+              "description": "نمایش سه بعدی .",
+              "attribution": "نمایش سه بعدی ",
               "type": "czml",
-              "url": "test/3d/geelong/smooth.czml",
+              "url": "test/3d/tehran/3ddemo.czml",
               "rectangle": [
-                51.441628,
-                35.638600, 
-                51.441864,
-                35.639145  
+                51.380535,
+                35.754924, 
+                51.383239,
+                35.756126
               ]
             },
+             {
+              "name": "نمونه داده سه بعدی برج ",
+              "description": "ساختمان بورس اوراق بهادار تهران",
+              "attribution": "ساختمان بورس اوراق بهادار تهران",
+              "type": "czml",
+              "url": "test/3d/tehran/3dtower.czml",
+              "rectangle": [
+                51.41051576,
+                35.69280148, 
+                51.41130701,
+                35.69316527
+              ]
+            },
+            // {
+            //   "name": "ساختمان سه بعدی ",
+            //   "description": "نمایش سه بعدی ساختمان.",
+            //   "attribution": "نمایش سه بعدی ساختمان",
+            //   "type": "czml",
+            //   "url": "test/3d/geelong/smooth.czml",
+            //   "rectangle": [
+            //     51.441628,
+            //     35.638600, 
+            //     51.441864,
+            //     35.639145  
+            //   ]
+            // },
+            // {
+            //   "name": "Vic Police (KMZ)",
+            //   "type": "kml",
+            //   "url": "test/3d_building_base_height_extruded.kmz"
+            // }
           ]
         },
         // {
@@ -226,19 +257,15 @@
         //   "type": "group",
         //   "items": [
         //     {
-        //       "name": "Simple Test (KML)",
+        //       "name": "نمونه فایل سه بعدی (KML)",
         //       "type": "kml",
-        //       "url": "test/simple.kml"
-        //     },
-        //     {
-        //       "name": "Vic Police (KML)",
-        //       "type": "kml",
-        //       "url": "test/vic_police.kml"
-        //     },
-        //     {
-        //       "name": "Vic Police (KMZ)",
-        //       "type": "kml",
-        //       "url": "test/selected_buildings3_LayerToK.kmz"
+        //       "url": "test/Milad.kmz",
+        //       "rectangle": [
+        //         51.374141,
+        //         35.743953, 
+        //         51.376716,
+        //         35.745590
+        //       ]
         //     }
         //   ]
         // },
