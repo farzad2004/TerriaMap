@@ -24,10 +24,9 @@
             51.44209944838575,
             35.6403598254297
           ],
-          "dataCustodian": "سازمان ثبت اسناد و املاک کشور",
-          "name": "تهران",
+          "dataCustodian": "[شرکت ملی پست ایران](www.post.ir/)\n\n[info@post.ir](mailto:info@post.ir)",           "name": "تهران",
           "dataUrlType": "direct",
-          "dataUrl": "http://www.ssaa.ir/",
+          "dataUrl": "www.post.ir/",
           "info": [
             {
               "name": "Licence",
